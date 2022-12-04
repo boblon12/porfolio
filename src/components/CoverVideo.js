@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import MainVideo from '../assets/fire.mov';
+import MainVideo from '../assets/fire.mp4';
 import { motion } from 'framer-motion';
 
 const VideoContainer = styled.section`

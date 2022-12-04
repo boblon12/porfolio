@@ -1,8 +1,8 @@
 import React, { Suspense } from 'react';
 import styled from 'styled-components';
 
-const CoverVideo = React.lazy(() => import('../components/CoverVideo'));
-const NavBar = React.lazy(() => import('../components/NavBar'));
+import CoverVideo from '../components/CoverVideo';
+import NavBar from '../components/NavBar';
 
 const Section = styled.section`
   position: relative;

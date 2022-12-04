@@ -6,15 +6,15 @@ import { useRef } from 'react';
 
 import { motion } from 'framer-motion';
 
-import img1 from '../assets/Images/4.webp';
-import img2 from '../assets/Images/5.webp';
-import img3 from '../assets/Images/6.webp';
-import img4 from '../assets/Images/7.webp';
-import img5 from '../assets/Images/8.webp';
-import img6 from '../assets/Images/9.webp';
-import img7 from '../assets/Images/10.webp';
-import img8 from '../assets/Images/11.webp';
-import img9 from '../assets/Images/12.webp';
+import img1 from '../assets/Images/4.png';
+import img2 from '../assets/Images/5.png';
+import img3 from '../assets/Images/6.png';
+import img4 from '../assets/Images/7.png';
+import img5 from '../assets/Images/8.png';
+import img6 from '../assets/Images/9.png';
+import img7 from '../assets/Images/10.png';
+import img8 from '../assets/Images/11.png';
+import img9 from '../assets/Images/12.png';
 
 const Section = styled.section`
   min-height: 100vh;
