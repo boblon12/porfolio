@@ -3,8 +3,8 @@ import styled from 'styled-components';
 import gsap from 'gsap';
 import ScrollTrigger from 'gsap/ScrollTrigger';
 
-import img1 from '../assets/Images/11.jpeg';
-import img2 from '../assets/Images/12.jpeg';
+import img1 from '../assets/Images/11.png';
+import img2 from '../assets/Images/12.png';
 import img3 from '../assets/Images/13.jpeg';
 import img4 from '../assets/Images/14.jpeg';
 
