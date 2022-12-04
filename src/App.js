@@ -23,7 +23,7 @@ function App() {
   useEffect(() => {
     setTimeout(() => {
       setLoaded(true);
-    }, 3000);
+    }, 4000);
   }, []);
 
   return (
@@ -35,12 +35,12 @@ function App() {
           options={{
             smooth: true,
             // ... all available Locomotive Scroll instance options
-            smartphone: {
-              smooth: true,
-            },
-            tablet: {
-              smooth: true,
-            },
+            // smartphone: {
+            //   smooth: true,
+            // },
+            // tablet: {
+            //   smooth: true,
+            // },
           }}
           watch={
             [
