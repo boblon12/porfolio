@@ -13,7 +13,6 @@ import ScrollTriggerProxy from './components/ScrollTriggerProxy';
 import Banner from './sections/Banner';
 import Footer from './sections/Footer';
 import Loader from './components/Loader';
-import Projects from './sections/Projects';
 
 function App() {
   const containerRef = useRef(null);
