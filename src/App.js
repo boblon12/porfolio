@@ -59,7 +59,7 @@ function App() {
               <About />
               <Skills />
               <Banner />
-              <Projects />
+              {/* <Projects /> */}
               <Footer />
             </main>
           </AnimatePresence>

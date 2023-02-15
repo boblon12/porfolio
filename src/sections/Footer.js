@@ -143,15 +143,22 @@ const Footer = () => {
           <li onClick={() => handleScroll('#home')}>home</li>
           <li onClick={() => handleScroll('.about')}>about me</li>
           <li onClick={() => handleScroll('#skills')}>my skills</li>
-          <li onClick={() => handleScroll('#projects')}>my projects</li>
           <li>
-            <a href="https://google.com" target="_blank" rel="noreferrer">
+            <a
+              href="https://github.com/boblon12"
+              target="_blank"
+              rel="noreferrer"
+            >
               my github
             </a>
           </li>
           <li>
-            <a href="https://google.com" target="_blank" rel="noreferrer">
-              text me
+            <a
+              href="https://t.me/faershtein1337"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Telegram
             </a>
           </li>
         </ul>
@@ -170,7 +177,7 @@ const Footer = () => {
           >
             Made with &hearts; by &nbsp;
             <a
-              href="https://youtube.com/codebucks"
+              href="https://t.me/faershtein1337"
               target="_blank"
               rel="noreferrer"
             >

@@ -132,13 +132,6 @@ const NavBar = () => {
         >
           my skills
         </MenuItem>
-        <MenuItem
-          onClick={() => handleScroll('#projects')}
-          whileHover={{ scale: 1.1, y: -5 }}
-          whileTap={{ scale: 0.9, Y: 0 }}
-        >
-          my projects
-        </MenuItem>
       </MenuItems>
     </NavContainer>
   );
